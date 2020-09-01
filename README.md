@@ -14,13 +14,7 @@ this is some kind of fair competition
 ورودی : 1 خط string
 خروجی : اگر مرد بود IGNORE HIM، اگر زن بود CHAT WITH HER
 
-<<<<<<< HEAD
-[لینک سوال](http://codeforces.com/problemset/problem/236/A)
-[CODE](/blob/master/236A/main.c)
-=======
 [لینک سوال](http://codeforces.com/problemset/problem/236/A) | 
-[CODE](https://github.com/ariakh55/codeforces-comp-round/blob/master/236A/main.c)
->>>>>>> a1c1a7e084c38f619752cf238bc0cc834ce59964
-
+[CODE](/blob/master/236A/main.c)
 
 </div>
