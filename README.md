@@ -15,6 +15,6 @@ this is some kind of fair competition
 خروجی : اگر مرد بود IGNORE HIM، اگر زن بود CHAT WITH HER
 
 [لینک سوال](http://codeforces.com/problemset/problem/236/A) | 
-[CODE](/blob/master/236A/main.c)
+[CODE](/236A/main.c)
 
 </div>
