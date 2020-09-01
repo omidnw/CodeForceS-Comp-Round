@@ -1,6 +1,9 @@
 # Hello World of comp
 
 this is some kind of fair competition
+### Table of Content
+- [سوال 1](#سوال-1---دختر-یا-پسر)
+- [سوال 2](#سوال-2---فیزیک-دان-جوان)
 
 
 <div dir="rtl" id="236A">
