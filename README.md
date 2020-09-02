@@ -18,7 +18,7 @@ this is some kind of fair competition
 خروجی : اگر مرد بود IGNORE HIM، اگر زن بود CHAT WITH HER
 
 [لینک سوال](http://codeforces.com/problemset/problem/236/A) | 
-[CODE](/236A/main.c)
+[CODE](/A/236A/main.c)
 
 </div>
 
@@ -38,7 +38,7 @@ this is some kind of fair competition
 خروجی : اگر در حال تعادل بود YES در غیر این صورت NO
 
 [لینک سوال](http://codeforces.com/problemset/problem/69/A) | 
-[CODE](/69A/main.c)
+[CODE](/A/69A/main.c)
 
 </div>
 
@@ -47,6 +47,12 @@ this is some kind of fair competition
 <div dir="rtl" id="1A">
 
 ## سوال 3 - تئاتر شهر
+میدان تئاتر در یک شهر به شکل مستطیل به ابعاد n در m می باشد و برای پر کردن میدان به تعدادی سنگ به ابعاد a در a نیازداریم و برای پرکردن این مستطیل نمی توان سنگ ها را شکاند و باید به موازات طول و عرض میدان باشند
 
+ورودی : ابعاد میدان و سنگ (m,n,a)
+خروجی : تعداد سنگ های لازم برای پرکردن میدان
+
+[لینک سوال](http://codeforces.com/problemset/problem/1/A) | 
+[CODE](/A/1A/main.c)
 
 </div>
