@@ -4,6 +4,7 @@ this is some kind of fair competition
 ### Table of Content
 - [سوال 1](#سوال-1---دختر-یا-پسر)
 - [سوال 2](#سوال-2---فیزیک-دان-جوان)
+- [سوال 3](#سوال-3---تئاتر-شهر)
 
 
 <div dir="rtl" id="236A">
@@ -54,5 +55,13 @@ this is some kind of fair competition
 
 [لینک سوال](http://codeforces.com/problemset/problem/1/A) | 
 [CODE](/A/1A/main.c)
+
+</div>
+
+* * *
+
+<div dir="rtl" id="1B">
+
+
 
 </div>
